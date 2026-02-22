@@ -1,13 +1,7 @@
 # Herbal-Plant-Identifier
-Herbal Plant Identifier using VGG16 CNN - AI model for identifying 37 medicinal plants.
+Herbal Plant Identifier using VGG16 CNN - A computer vision model for identifying 37 medicinal plants.
 
 <img width="3356" height="1802" alt="image" src="https://github.com/user-attachments/assets/7489d08a-9ccb-47e3-a929-8faf06c6e299" />
-
-# 🌿 Herbal Plant Identifier
-
-**AI-powered plant identification using VGG16 CNN to classify 37 medicinal herbs with 88% accuracy.**
-
-Identify herbal and medicinal plants instantly using deep learning. Upload an image or capture with your camera to get instant AI predictions.
 
 ---
 
